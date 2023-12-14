@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IYy4+f8rtMNTbABxOZGkWXiX7djYxpgqBCjmhgXwcnKLd14RbmPo1pnAQAP8G5wjXSFlaVoGz5MOjETi2da1MA==",
+  "dgSpecHash": "D8AU8Z6FL7UdL0xmyWC3iEKgmxjHh9fa9GohGQIMpHVmOmfkYq3RKuh4FcADsi+1inAkq633nkXnhqZGpCqAmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maria.costa\\source\\repos\\LuizaWebApp\\LuizaWebApp\\LuizaWebApp.csproj",
+  "projectFilePath": "C:\\Users\\maria.costa\\Source\\Repos\\atCSHARP\\LuizaWebApp\\LuizaWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maria.costa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\maria.costa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
