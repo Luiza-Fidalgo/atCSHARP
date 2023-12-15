@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using LuizaWebApp.Controller1;
+using Microsoft.EntityFrameworkCore;
 
 namespace LuizaWebApp.DadosFlores
 {
@@ -7,6 +8,11 @@ namespace LuizaWebApp.DadosFlores
         public FloresDbContext(DbContextOptions<FloresDbContext> options)
         {
 
+        }
+
+        public static implicit operator FloresDbContext(FloresControllers v)
+        {
+            throw new NotImplementedException();
         }
     }
 }
